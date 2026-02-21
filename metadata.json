@@ -1,0 +1,7 @@
+{
+  "name": "remex YahwehPuppyFarm version 1",
+  "description": "A prestigious premium farm offering elite, health-certified puppies. Yahweh Puppy Farm is dedicated to ethical breeding and divine companionship.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
